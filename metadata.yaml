@@ -1,0 +1,27 @@
+_repo: The-Principles-of-Stratigraphical-Geology_43963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marr, J. E. (John Edward)
+    alias: Marr, John Edward
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '42502'
+    url: http://www.gutenberg.org/2009/agents/42502
+description: ''
+gutenberg_issued: '2013-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology, Stratigraphic'
+- !lcc 'QE'
+title: The Principles of Stratigraphical Geology
+url: http://www.gutenberg.org/ebooks/43963

@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42502'
     url: http://www.gutenberg.org/2009/agents/42502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43963#The-Principles-of-Stratigraphical-Geology
 gutenberg_issued: '2013-10-16'
 gutenberg_type: Text
 identifiers:
